@@ -29,7 +29,7 @@ I'm a computer science student who is passionate about doing operations research
     width="40" alt="Python"
 />&nbsp;
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
     width="40" alt="Git"
 />&nbsp;
 <img
@@ -49,6 +49,6 @@ I'm a computer science student who is passionate about doing operations research
     width="40" alt="LaTeX"
 />&nbsp;
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
     width="40" alt="Pandas"
 />&nbsp;
