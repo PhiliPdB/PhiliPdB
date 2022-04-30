@@ -1,15 +1,54 @@
-# Hi 👋, I'm Philip de Bruin
+<div id="header">
+    <h1 style="border-bottom: none; margin-bottom: 8px;">Hi 👋🏻, I'm Philip</h1>
+    <a href="https://linkedin.com/in/philip-de-bruin">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn" />
+    </a>
+</div>
 
-I'm a Masters student Computing Science at [Utrecht University](uu.nl), currently focussing on operations research.
+---
 
-## Tools & Technologies
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## About me
+I'm a computer science student who is passionate about doing operations research, solving problems and learning about new tech.
+
+- 🔭 I'm currently a Masters Student Computing Science at Utrecht University.
+- 🌱 Exploring programming for embedded devices
+- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/philip-de-bruin)
 
 
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/philip-de-bruin)
+## Languages & Tools
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    width="40" alt="C#"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+    width="40" alt="Rust"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    width="40" alt="Python"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    width="40" alt="Git"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"
+    width="40" alt="Haskell"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    width="40" alt="C++"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    width="40" alt="TypeScript"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
+    width="40" alt="LaTeX"
+/>&nbsp;
+<img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+    width="40" alt="Pandas"
+/>&nbsp;
