@@ -52,3 +52,6 @@ I'm a computer science student who is passionate about doing operations research
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
     width="40" alt="Pandas"
 />&nbsp;
+
+## Stats
+![Trophies](https://github-profile-trophy.vercel.app/?username=philipdb&no-frame=true&column=-1&theme=onestar)
