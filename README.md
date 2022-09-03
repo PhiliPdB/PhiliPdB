@@ -8,10 +8,10 @@
 ---
 
 ## About me
-I'm a computer science student who is passionate about doing operations research, solving problems and learning about new tech.
+I'm a PhD candidate in operations research, furthermore I'm passionate about solving problems and learning about new tech. For my PhD we are working with [KLM](https://klm.com) to improve robustness in their schedules, and investigating forms of disruption management.
 
-- 🔭 I'm currently a Masters Student Computing Science at Utrecht University.
-- 🌱 Exploring programming for embedded devices
+- 🔭 I'm currently a PhD candidate at Utrecht University.
+- 🌱 Exploring binary exploitation and completing Advent of Code.
 - 📫 Reach me via: [LinkedIn](https://linkedin.com/in/philip-de-bruin)
 
 
