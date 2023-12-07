@@ -19,42 +19,9 @@ Which is why I am currently focussing on the integrated problem of tail and crew
 
 
 ## Languages & Tools
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    width="40" alt="C#"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-    width="40" alt="Rust"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    width="40" alt="Python"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-    width="40" alt="Git"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"
-    width="40" alt="Haskell"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    width="40" alt="C++"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    width="40" alt="TypeScript"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"
-    width="40" alt="LaTeX"
-/>&nbsp;
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"
-    width="40" alt="Pandas"
-/>&nbsp;
+![Languages](https://skillicons.dev/icons?i=cs,rust,python,haskell,cpp,ts)
+
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,latex)
 
 ## Stats
 ![Trophies](https://github-profile-trophy.vercel.app/?username=philipdb&no-frame=true&column=-1&theme=onestar)
