@@ -14,6 +14,7 @@ For this research we are focussing on building models to support the planning of
 Which is why I am currently focussing on the integrated problem of tail and crew recovery.
 
 - 🔭 I'm currently a PhD Candidate at Utrecht University.
+- 🌱 Learning Nix and NixOS.
 - 🌱 Completing this year's Advent of Code.
 - 📫 Reach me via: [LinkedIn](https://linkedin.com/in/philip-de-bruin)
 
