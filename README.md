@@ -1,8 +1,5 @@
 <div id="header">
     <h1 style="border-bottom: none; margin-bottom: 8px;">Hi there 👋🏻</h1>
-    <a href="https://linkedin.com/in/philip-de-bruin">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn" />
-    </a>
 </div>
 
 ---
@@ -13,10 +10,12 @@ For my PhD we are collaborating with [KLM Royal Dutch Airlines](https://www.klm.
 For this research we are focussing on building models to support the planning of operations at KLM. This, in order to make these operations more robust against disruptions, but also to support the recovery during disruption.
 Which is why I am currently focussing on the integrated problem of tail and crew recovery.
 
-- 🔭 I'm currently a PhD Candidate at Utrecht University.
+- 🔭 Pursuing a PhD at Utrecht University.
 - 🌱 Learning Nix and NixOS.
-- 🌱 Completing this year's Advent of Code.
-- 📫 Reach me via: [LinkedIn](https://linkedin.com/in/philip-de-bruin)
+- 🌱 Completing this year's Advent of Code (if it's December again).
+- 📫 Reach me via:
+    * Email: `philipdb.art110 <at> passmail <dot> com`
+    * Matrix: `@philipdb:matrix.org`
 
 
 ## Languages & Tools
