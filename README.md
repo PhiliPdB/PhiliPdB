@@ -8,7 +8,8 @@
 I'm a PhD Candidate at [Utrecht University](https://www.uu.nl) in operations research, furthermore I'm passionate about solving problems and learning about new tech.
 For my PhD we are collaborating with [KLM Royal Dutch Airlines](https://www.klm.com) as part of the [Kickstart AI](https://www.kickstart.ai/) program.
 For this research we are focussing on building models to support the planning of operations at KLM. This, in order to make these operations more robust against disruptions, but also to support the recovery during disruption.
-Which is why I am currently focussing on the integrated problem of tail and crew recovery.
+
+In my free time I explore the world through my [camera lens](https://flickr.com/people/philipdb), work on my [NixOS config](https://github.com/philipdb/nixos-config), or try to contribute to open source projects like [nixpkgs](https://github.com/nixos/nixpkgs).
 
 - 🔭 Pursuing a PhD at Utrecht University.
 - 🌱 Learning Nix and NixOS.
@@ -25,3 +26,4 @@ Which is why I am currently focussing on the integrated problem of tail and crew
 
 ## Stats
 ![Trophies](https://github-profile-trophy.vercel.app/?username=philipdb&no-frame=true&column=-1&theme=onestar)
+
